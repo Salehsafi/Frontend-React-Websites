@@ -39,11 +39,11 @@ Frontend-React-Websites/
 ├── package-lock.json
 ├── vite.config.js
 └── README.md
-
+```
 ## Getting Started
 
 ### Install dependencies:
-```bash
+
 npm install
 ### Run the development server:
 npm run dev
